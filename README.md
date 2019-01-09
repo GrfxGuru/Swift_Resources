@@ -4,5 +4,5 @@ An ever evolving list of useful resources for Swift development broken down in t
 - Software
 - Tutorials
 - Blogs
-- Podcasts
+- [Podcasts](https://github.com/GrfxGuru/Swift_Resources/blob/master/Podcasts.md)
 - Resources
