@@ -3,7 +3,7 @@
 An ever evolving list of useful resources for Swift development broken down in to sensible groupings.
 
 ---
-Software | Tutorials | Blogs | [Podcasts](https://github.com/GrfxGuru/Swift_Resources/blob/master/Podcasts.md) | Resources
+Software | [Tutorials and Courses](https://github.com/GrfxGuru/Swift_Resources/blob/master/Tutorials.md) | Blogs | [Podcasts](https://github.com/GrfxGuru/Swift_Resources/blob/master/Podcasts.md) | Resources
 
 ---
 
